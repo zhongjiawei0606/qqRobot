@@ -12,7 +12,7 @@ sudo ./Go-Mirai-Client-darwin-amd64
 
 * windows系统双击【Go-Mirai-Client-windows-amd64.exe】
 
-2. 运行后访问http://localhost:9000/登录qq
+2. 运行后访问http://localhost:9000/  登录qq
 3. 处理验证码完成登录
 4. 进入qqRobot/js-pbbot/example/
 
