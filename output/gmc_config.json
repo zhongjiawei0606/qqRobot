@@ -1,0 +1,13 @@
+{
+    "port": "9000",
+    "sms": false,
+    "server_groups": [
+        {
+            "name": "default",
+            "disabled": false,
+            "urls": [
+                "ws://localhost:8081/ws/cq/"
+            ]
+        }
+    ]
+}
