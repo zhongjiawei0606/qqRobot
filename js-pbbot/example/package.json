@@ -9,7 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "pbbot": "0.0.3"
+    "pbbot": "0.0.3",
+    "request": "^2.88.2"
   },
   "devDependencies": {
     "nodemon": "^2.0.7"
